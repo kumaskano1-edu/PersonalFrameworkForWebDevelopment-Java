@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form action="RootController" method="post">
+    <input type="submit" value="Upload" name="Choice" />
+    <input type="submit" value="Configure" name="Choice" />
+  </form>
   </body>
 </html>

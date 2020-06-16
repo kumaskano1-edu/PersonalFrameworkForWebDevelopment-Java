@@ -1,0 +1,25 @@
+BMW
+Model X
+100000
+Colors
+{
+Colors Do not exist
+}
+Transmission
+{
+    Automatic
+    Standard[400]
+}
+Brakes/Traction
+{
+    Polynomial[200]
+    Standard
+}
+Side-Impact-Air-Bags
+{
+    not-present
+}
+Power-Moonroof
+{
+    not-present
+}

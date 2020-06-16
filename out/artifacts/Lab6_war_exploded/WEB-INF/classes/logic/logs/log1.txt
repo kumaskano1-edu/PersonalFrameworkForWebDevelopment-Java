@@ -1,0 +1,28 @@
+Error no: 1 Exception Message: File Name you specified does not exist, switched to the car template 
+ | time: 2020/05/08 18:15:20
+
+Error no: 2 Exception Message: OptionSet name was not read! | time: 2020/05/08 18:15:20
+
+Error no: 3 Exception Message: Price or any data in line after car name is missing, manual entry is activated | time: 2020/05/08 18:15:20
+
+Error no: 4 Exception Message: Missing Option Set Options, error withing the text file | time: 2020/05/08 18:15:20
+
+Error no: 5 Exception Message: File is empty, has no data in it, manual mode was started: 
+ | time: 2020/05/08 18:15:21
+
+Error no: 2 Exception Message: OptionSet name was not read! | time: 2020/05/08 18:15:27
+
+Error no: 1 Exception Message: File Name you specified does not exist, switched to the car template 
+ | time: 2020/05/08 18:43:25
+
+Error no: 2 Exception Message: OptionSet name was not read! | time: 2020/05/08 18:43:25
+
+Error no: 3 Exception Message: Price or any data in line after car name is missing, manual entry is activated | time: 2020/05/08 18:43:25
+
+Error no: 4 Exception Message: Missing Option Set Options, error withing the text file | time: 2020/05/08 18:43:25
+
+Error no: 5 Exception Message: File is empty, has no data in it, manual mode was started: 
+ | time: 2020/05/08 18:43:25
+
+Error no: 2 Exception Message: OptionSet name was not read! | time: 2020/05/08 18:43:39
+

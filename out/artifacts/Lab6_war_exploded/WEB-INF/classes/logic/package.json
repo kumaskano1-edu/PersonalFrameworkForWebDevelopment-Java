@@ -1,0 +1,30 @@
+{
+  "name": "car-configuration-app",
+  "version": "1.0.0",
+  "description": "A java backend, multi user friendly application for managing car selling businesses.",
+  "main": "Driver/Driver1.java",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaskano1-edu/Automobile-Configuration-Web-App.git"
+  },
+  "keywords": [
+    "Advanced",
+    "Java",
+    "Application",
+    "Multi-threading",
+    "Socket",
+    "Programming"
+  ],
+  "author": "Kurmanbek Karaev (Kuma)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumaskano1-edu/Automobile-Configuration-Web-App/issues"
+  },
+  "homepage": "https://github.com/kumaskano1-edu/Automobile-Configuration-Web-App#readme"
+}

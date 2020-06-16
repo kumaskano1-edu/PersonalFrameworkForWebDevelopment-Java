@@ -1,0 +1,37 @@
+Ford
+Wagon ZTW
+15455
+Colors
+{
+    Fort Knox Gold Clearcoat Metallic
+    	Liquid Grey Clearcoat Metallic
+    	Infra-Red Clearcoat
+    	Grabber Green Clearcoat Metallic
+    	Sangria Red Clearcoat Metallic
+    	French Blue Clearcoat Metallic
+    	Twilight Blue Clearcoat Metallic
+    	CD Silver Clearcoat Metallic
+    	Pitch Black Clearcoat
+    	Cloud 9 White Clearcoat
+}
+Transmission
+{
+    Automatic
+    Manual$-815
+}
+Brakes/Traction
+{
+    Standard
+    ABS$400
+    ABS with Advance Traction$1625
+}
+Side-Impact-Air-Bags
+{
+    not-present
+    present$350
+}
+Power-Moonroof
+{
+    not-present
+    present$595
+}
