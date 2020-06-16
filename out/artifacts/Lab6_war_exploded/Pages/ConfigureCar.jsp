@@ -12,6 +12,21 @@
 </head>
 <body>
 <h1>Configure Car</h1>
+<%
+    String fooParameter = request.getParameter( "isUploaded" );
+    if ( fooParameter.equals("false") )
+    {
+%>
+<%
+}
+else
+{
+%>
+<p>The value of parameter foo is <%= fooParameter.toString() %>.</p>
+<%
+    }
+%>
+
 <a href="/Lab6_war_exploded/">Back Home</a>
 </body>
 </html>
