@@ -10,11 +10,9 @@ public class RootController extends HttpServlet {
 protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
       String value = request.getParameter("Choice");
       if(value.equals("Upload")) {
-         UploadCar upload = new UploadCar();
-         upload.doGet(request, response);
+         response.sendRedirect("Pages/UploadCar.jsp");
       } else {
-         ShowCarsChoice choice = new ShowCarsChoice();
-         choice.doGet(request, response);
+         response.sendRedirect("Pages/ConfigureCar.jsp");
       }
 }
 

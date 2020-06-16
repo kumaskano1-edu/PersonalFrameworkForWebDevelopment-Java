@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>Configure Car</h1>
+<a href="/Lab6_war_exploded/">Back Home</a>
 </body>
 </html>

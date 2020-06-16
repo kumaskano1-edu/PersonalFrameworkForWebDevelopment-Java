@@ -12,5 +12,15 @@
 </head>
 <body>
 <h1>Upload Car</h1>
+    <div class="form">
+        <form action="UploadCar" method="post" enctype="multipart/form-data">
+            <input type="file" id="myFile" name="filename">
+            <input type="text" name="txtPath" />
+            <input type="submit" value="Upload">
+        </form>
+    </div>
+
+<a href="/Lab6_war_exploded/">Back Home</a>
+
 </body>
 </html>
