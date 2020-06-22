@@ -8,12 +8,12 @@
 
 > A web app for uploading and configure automobile objects within the server, with concurrency handling features and socket communication implementations.
 
-##Features
--Ability to handle multiple requests by implementing multi threading concepts
--Ability to recieve and send Automobile objects with and from client
--Configuration abilities for the client 
--Uploadable Property files for creating an automobile object
--Http network communication used
+## Features
+- Ability to handle multiple requests by implementing multi threading concepts
+- Ability to recieve and send Automobile objects with and from client
+- Configuration abilities for the client 
+- Uploadable Property files for creating an automobile object
+- Http network communication used
 ## Author
 
 👤 **Kurmanbek Karaev**
