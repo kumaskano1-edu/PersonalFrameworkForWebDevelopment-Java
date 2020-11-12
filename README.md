@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Automobile-Configuration-Web-App 👋</h1>
+<h1 align="center">Welcome to Personal Framework for Web Development using pure Java 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1;-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,13 +6,13 @@
   </a>
 </p>
 
-> A web app for uploading and configure automobile objects within the server, with concurrency handling features and socket communication implementations.
+> A complete framework from skratch, for developing different web applications and real time processes. 
 
 ## Features
 - Ability to handle multiple requests by implementing multi threading concepts
-- Ability to recieve and send Automobile objects with and from client
+- Ability to recieve and send package objects
 - Configuration abilities for the client 
-- Uploadable Property files for creating an automobile object
+- POSTING abilities from the side of the client
 - Http network communication used
 ## Author
 
